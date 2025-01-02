@@ -5,6 +5,6 @@
 ### style.css: it shows how to display the HTML file when it is rendered on the web browser
 ### request.py: it has code for url
 
-## configuration files: requirements.txt
+## configuration file: requirements.txt
 ### requirements.txt: it has all the libraries that need to be installed in my Azure environment
 ## Connect Github repository to my Azure account to upload all the files to my Azure environment. It will give URL extension (web app) which is applicable globally
